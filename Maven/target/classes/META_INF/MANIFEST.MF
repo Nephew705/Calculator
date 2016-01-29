@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: ПЭ КА
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_65
+Main-Class: com.Controller.Main
+Class-Path: \classes
+
